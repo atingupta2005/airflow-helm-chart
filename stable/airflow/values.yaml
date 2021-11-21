@@ -62,7 +62,7 @@ airflow:
   image:
     ##
     ## docker-airflow image
-    repository: marclambertiml/airflow
+    repository: atingupta2005/airflow
     ##
     ## image tag
     tag: latest
